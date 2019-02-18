@@ -1,5 +1,4 @@
 """
-CSAPX - Project 1 (Python)
 A program to count the total number of occurrences
 of a word across the years.
 
