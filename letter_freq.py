@@ -1,5 +1,4 @@
 """
-CSAPX - Project 1 (Python)
 A program to display the letter frequencies
 across the years.
 
